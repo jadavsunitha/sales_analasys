@@ -1,4 +1,4 @@
-#  ${\color{red} Sales\ Analysis\ Using\ MySql\}$
+#  ${\color{black} Sales\ Analysis\ Using\ MySql\}$
 # 🔹 Objective
 To analyze sales data and extract actionable insights based on shipping modes, sales categories, profitability, and customer behavior.
 
